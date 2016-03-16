@@ -1,14 +1,14 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
-  "version": "0.5.0-beta",
+  "name": "boatdata",
+  "description": "Remote monitoring, reporting and control system for the marine environment",
+  "version": "0.0.1",
   "meanjs-version": "0.5.0-beta",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "https://github.com/damianham/boatdata/graphs/contributors",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meanjs/mean.git"
+    "url": "https://github.com/damianham/boatdata.git"
   },
   "engines": {
     "node": ">=0.12.0",
